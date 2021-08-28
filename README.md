@@ -1,5 +1,3 @@
-# demo2
-new file
 <!Doctype html>
 <html>
 <head>
