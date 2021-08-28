@@ -1,6 +1,6 @@
 # demo2
 new file
-!Doctype html>
+<!Doctype html>
 <html>
 <head>
    <meta charset="Utf-8">
